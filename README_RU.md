@@ -9,7 +9,7 @@
 - Не использует ресурсы компьютера
 
 ## Скачать
-[Скачать сдесь](https://github.com/marebank/MBMiner/releases/latest)
+[Скачать здесь](https://github.com/marebank/MBMiner/releases/latest)
 
 ## Как майнить
 Для начала, запустите файл `installer.exe` от имени администратора
