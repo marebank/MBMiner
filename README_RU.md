@@ -1,6 +1,7 @@
+![](/logo.png)
+
 # MBminer
-Инструкция как майнить монеты
-[Инструкция на Английском](https://github.com/marebank/MBMiner/blob/main/README.md)
+[Instruction on English](https://github.com/marebank/MBMiner/blob/main/README.md)
 
 ## Особенности
 
@@ -21,5 +22,7 @@ pause
 
 Измените `wallet_address` в `start.bat` на ваш адрес кошелька
 Затем запустите
+
+Выплата каждые 0.001 монет
 
 Хорошего майнинга :)

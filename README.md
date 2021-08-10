@@ -1,5 +1,6 @@
+![](/logo.png)
+
 # MBminer
-This is instruction how to mine coins
 [Инструкция на Русском](https://github.com/marebank/MBMiner/blob/main/README_RU.md)
 
 ## Features
@@ -21,5 +22,7 @@ pause
 
 Change `wallet_address` in `start.bat` to the address of your wallet
 Once done, run it
+
+Payout every 0.001 coins
 
 Have a good mining :)
